@@ -4,7 +4,7 @@ A standalone landing page with legal documentation created for A2P 10DLC campaig
 
 ## Purpose
 
-This project was built for a client (Juicy Burger LLC) who needed A2P 10DLC approval but wasn't equipped to manage website updates themselves. Rather than modifying their main site, we created this self-contained landing page with all required compliance elements for SMS messaging approval.
+This project was built for a client (Juicy Burger LLC) who needed A2P 10DLC approval but wasn't equipped to manage website updates themselves. Rather than modifying their main site, I created this self-contained landing page with all required compliance elements for SMS messaging approval.
 
 ## What's Included
 
